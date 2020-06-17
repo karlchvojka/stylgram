@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Stylagram
+This is a practice project for Karl Chvojka, following a [tutorial](https://www.robinwieruch.de/react-styled-components).
+
+## MVP
+- Create an Instagram Clone
+- Implement Styled Components.
+
 ## Available Scripts
 
 In the project directory, you can run:
