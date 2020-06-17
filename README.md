@@ -4,8 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a practice project for Karl Chvojka, following a [tutorial](https://www.robinwieruch.de/react-styled-components).
 
 ## MVP
-- Create an Instagram Clone
+- Create an Instagram Clone.
 - Implement Styled Components.
+- Create app as per the tutorial
+
+## Stretch Goals
+- Seperate out the components to the Atomic Design standard
+- Bring up to current standards.
 
 ## Available Scripts
 
