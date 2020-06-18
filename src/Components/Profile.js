@@ -20,7 +20,7 @@ const feedsource = [
       'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F02%2Fscreen-shot-2019-12-12-at-2.44.14-pm-2000.jpg',
     likes: '313',
     comments: '10',
-    isVideo: true,
+    isVideo: false,
     id: 1,
   },
   {
