@@ -1,10 +1,23 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import './App.css';
+import styled from 'styled-components';
+
+import Header from './Components/Header.js';
+import Profile from './Components/Profile.js';
+
+const AppWrapper = styled.div`
+  background-color: #fafafa;
+`;
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <Fragment>
+      <AppWrapper>
+        <Header />
+
+        <Profile />
+      </AppWrapper>
+    </Fragment>
   );
 }
 
